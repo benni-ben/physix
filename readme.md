@@ -19,3 +19,5 @@ TODO
 
 - Broad phase collision detection
 - CCD (Continuous Collision Detection)
+
+Physix is forked from [Physics "R" Us](https://github.com/juhl/physicsRus), a physics editor developed in 2011.
